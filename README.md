@@ -26,7 +26,7 @@ The ETL pipeline is designed following a modular architecture, ensuring flexibil
 
 1. **Data Extraction Layer**: Interfaces with source systems to retrieve raw data.
 2. **Data Transformation Layer**: Applies data cleansing, enrichment, and transformation processes.
-3. **Data Loading Layer**: Loads the processed data into the Databricks Lakehouse or any specified cloud platform.
+3. **Data Loading Layer**: Loads the processed data into the Databricks Lakehouse.
 
 ## Data Source
 
