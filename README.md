@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements an ETL (Extract, Transform, Load) data pipeline using Apple customer data on Databricks. The goal of this pipeline is to efficiently extract data from various source tables, transform it according to specific business rules, and load the transformed data into the Databricks Lakehouse. Additionally, the pipeline can be designed to load data into any major cloud platform, such as AWS, Azure, or Google Cloud, enabling scalable data analysis and the generation of valuable business insights.
+This project implements an ETL (Extract, Transform, Load) data pipeline using Apple customer data on Databricks.The pipeline has been built using **Apache PySpark**, enabling efficient processing of large datasets. The goal of this pipeline is to efficiently extract data from various source tables, transform it according to specific business rules, and load the transformed data into the Databricks Lakehouse. Additionally, the pipeline can be designed to load data into any major cloud platform, such as AWS, Azure, or Google Cloud, enabling scalable data analysis and the generation of valuable business insights.
 
 ## Table of Contents
 
